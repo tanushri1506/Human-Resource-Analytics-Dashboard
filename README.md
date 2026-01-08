@@ -55,3 +55,8 @@ This project demonstrates the ability to:
 - Design intuitive and interactive Tableau dashboards
 - Translate HR metrics into actionable business insights
 - Support workforce planning and employee retention strategies
+
+## Contact
+- Tanushri Barsainya
+- Github: https://github.com/tanushri1506
+- LinkedIn: https://www.linkedin.com/in/tanushri1506/
