@@ -1,5 +1,7 @@
 # Human Resource Analytics Dashboard (Tableau)
 
+Live Dashboard Link: https://public.tableau.com/views/HRAnalyticsDashboard_17683138167190/HRAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Project Overview
 This project presents an interactive **Human Resource Analytics Dashboard** built using Tableau to analyze employee attrition and workforce trends. The dashboard helps HR teams and management identify key drivers of attrition, understand employee demographics, and monitor satisfaction levels to support data-driven workforce planning and retention strategies.
 
