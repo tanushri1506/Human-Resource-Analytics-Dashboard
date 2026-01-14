@@ -8,6 +8,9 @@ This project presents an interactive **Human Resource Analytics Dashboard** buil
 ## Project Objective
 To analyze employee attrition patterns and workforce metrics across departments, age groups, gender, education fields, and job roles, enabling stakeholders to make informed HR decisions and improve employee retention.
 
+## Dashboard Preview
+![Human Resource Analytics Dashboard](screenshots/HRDashboard.png)
+
 ## Dataset Description
 The dashboard is built using an HR employee dataset containing information on:
 - Employee demographics (age, gender, education)
@@ -30,9 +33,6 @@ The dashboard provides insights through the following analyses:
 - Employee distribution by age group
 - Job satisfaction ratings across job roles
 - Attrition rate by gender for different age groups
-
-## Dashboard Preview
-![Human Resource Analytics Dashboard](screenshots/HRDashboard.png)
 
 ## Dashboard Features
 - Interactive filters for dynamic analysis
